@@ -7,6 +7,7 @@ Startups hire hardest in the months right after a funding round. This list is or
 ## Contents
 
 - [Startup Job Boards](#startup-job-boards)
+- [Application Tools](#application-tools)
 - [Jobs at Recently Funded Startups](#jobs-at-recently-funded-startups)
 - [Investor Portfolio Job Boards](#investor-portfolio-job-boards)
 - [Funding News and Trackers](#funding-news-and-trackers)
@@ -24,6 +25,11 @@ Startups hire hardest in the months right after a funding round. This list is or
 * [Wellfound](https://wellfound.com/jobs) - Startup job board (formerly AngelList Talent) that shows salary and equity ranges on most listings.
 * [Welcome to the Jungle](https://www.welcometothejungle.com) - Curated tech jobs with company culture profiles (absorbed Otta in 2024).
 * [Work at a Startup](https://www.workatastartup.com) - Y Combinator's job board for roles at YC-backed companies, with one profile for all applications.
+
+## Application Tools
+*Tools for evaluating roles and preparing application materials.*
+
+* [JobEmerge](https://www.jobemerge.work) - AI career copilot: job-fit test, 19-language resume translator, Markdown editor. One-time pricing, no auto-renewal.
 
 ## Jobs at Recently Funded Startups
 *Boards that start from the funding round instead of the job post.*
